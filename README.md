@@ -1,6 +1,8 @@
+![MasterHead](https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn)
 <h1 align="center">Hi 👋, I'm Taha Hesham</h1>
 <h3 align="center">A passionate Computer Engineer | Freelance Graphic Designer | Experience C , C++ , Java , Python , HTML, AWS Cloud DevOps</h3>
 
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahahesham&label=Profile%20views&color=0e75b6&style=flat" alt="tahahesham" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahahesham" alt="tahahesham" /></a> </p>
