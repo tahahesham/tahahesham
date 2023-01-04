@@ -1,4 +1,4 @@
-![logo](https://media0.giphy.com/media/tnApEiWSd5rGqu4lvv/giphy.gif)
+![logo](https://media0.giphy.com/media/tnApEiWSd5rGqu4lvv/giphy.gif width="100%")
 <h1 align="center">Hi 👋, I'm Taha Hesham</h1>
 <h3 align="center">A passionate Computer Engineer | Freelance Graphic Designer | Experience C , C++ , Java , Python , HTML, AWS Cloud DevOps</h3>
 
