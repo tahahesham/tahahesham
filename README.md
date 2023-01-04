@@ -1,4 +1,4 @@
-![MasterHead]([https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b76110b603e621b6cf52912de6c9f64952519f11eae06&rid=giphy.gif&ct=g](https://media1.giphy.com/media/bhfjGnl4pU9RlPoAg0/giphy.gif?cid=790b761158e0b29b1fb08628ce12d71b2c949f3a9d77e205&rid=giphy.gif&ct=g))
+![MasterHead](https://media1.giphy.com/media/bhfjGnl4pU9RlPoAg0/giphy.gif?cid=790b761158e0b29b1fb08628ce12d71b2c949f3a9d77e205&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Taha Hesham</h1>
 <h3 align="center">A passionate Computer Engineer | Freelance Graphic Designer | Experience C , C++ , Java , Python , HTML, AWS Cloud DevOps</h3>
 
